@@ -501,7 +501,7 @@ async def not_chat(_, m: Message):
     else:
         buttons = [
             [
-                InlineKeyboardButton('⚡️Make Own Bot', url='https://github.com/tasequaylai2020/VCPlayerBot'),
+                InlineKeyboardButton('⚡️Make Own Bot', url='https://github.com/subinps/VCPlayerBot'),
                 InlineKeyboardButton('🧩 Join Here', url='https://t.me/subin_works'),
             ]
             ]
